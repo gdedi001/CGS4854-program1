@@ -1,5 +1,13 @@
 #main {
-    background-image: url("http://grandbenders.com/wp-content/uploads/2013/04/EDM-Festival.jpg");
-    background-size: 500px 500px;
+    background-image: url("http://bestofedc.com/wp-content/uploads/2014/06/Electric-Daisy-Carnival-Vegas-owl-adam-kaplan-1.jpg");
+    background-size: cover;
     background-repeat: no-repeat;
+}
+
+iframe {
+    display: block;
+    width: 800px;
+    height: 400px;
+    margin: 0 auto;
+    border: 0;
 }
