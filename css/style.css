@@ -1,13 +1,25 @@
 #main {
-    background-image: url("http://bestofedc.com/wp-content/uploads/2014/06/Electric-Daisy-Carnival-Vegas-owl-adam-kaplan-1.jpg");
+   /* background-image: url("http://djpicshd.com/wp-content/uploads/2013/03/dash-berlin-greeted-by-people-hd-wallpaper-picture-ultra-music-fest-2013-wmc-miami.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;*/
+    
+    background: url("http://jto.s3.amazonaws.com/wp-content/uploads/2014/09/p08-st.-michel-edm-a-20140924.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
     background-repeat: no-repeat;
+    
+}
+
+#main-heading {
+    text-align: center; 
 }
 
 iframe {
     display: block;
-    width: 800px;
-    height: 400px;
+    width: 600px;
+    height: 300px;
     margin: 0 auto;
-    border: 0;
+    margin-top: 40px;
 }
