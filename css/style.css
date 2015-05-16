@@ -14,9 +14,30 @@
 
 #main-heading {
     text-align: center; 
+    font-family: 'Megrim', cursive;
+    font-size: 50px;
+    margin-bottom: 20px;
+    text-decoration: underline;
 }
 
-iframe {
+#main-note {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 5px;;
+    
+}
+
+#nav {
+    position: absolute;
+    left: 370px;
+}
+
+#nav, td {
+    text-align: center;
+    padding: 15px;   
+}
+
+#main-video {
     display: block;
     width: 600px;
     height: 300px;
