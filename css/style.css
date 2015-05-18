@@ -1,8 +1,5 @@
+/* CSS for index.html*/
 #main {
-   /* background-image: url("http://djpicshd.com/wp-content/uploads/2013/03/dash-berlin-greeted-by-people-hd-wallpaper-picture-ultra-music-fest-2013-wmc-miami.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;*/
-    
     background: url("http://jto.s3.amazonaws.com/wp-content/uploads/2014/09/p08-st.-michel-edm-a-20140924.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -24,7 +21,7 @@
     text-align: center;
     font-family: 'Open Sans', sans-serif;
     font-style: italic;
-    letter-spacing: 5px;;
+    letter-spacing: 5px;
     
 }
 
@@ -49,3 +46,51 @@
     margin: 0 auto;
    /* margin-top: 40px;*/
 }
+/* End of CSS index.html */
+
+#ultra {
+     background: url("http://hdwallpapersmart.com/wp-content/uploads/2014/03/0009_20130315_UMF-DAY2-Deadmau5-005.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#ultra-heading {
+    font-family: 'Audiowide', cursive;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+#ultra-note {
+    font-family: 'Damion', cursive;
+    margin-top: 5px;
+    text-align: center;
+}
+
+#ultra-nav {
+    
+}
+
+#ultra-video {
+    display: block;
+    width: 640px;
+    height: 320px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
