@@ -28,12 +28,12 @@
     
 }
 
-#nav {
+#main-nav {
     margin: 0px auto;
     margin-top: 40px;
 }
 
-#nav, td, a {
+#main-nav, td, a {
     color: #8A002E;
     font-family: 'Megrim', cursive;
     font-weight: bold;
