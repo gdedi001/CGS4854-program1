@@ -49,7 +49,7 @@
 /* End of CSS index.html */
 
 #ultra {
-     background: url("http://hdwallpapersmart.com/wp-content/uploads/2014/03/0009_20130315_UMF-DAY2-Deadmau5-005.jpg") no-repeat center center fixed; 
+     background: url("http://www.sizzlpix.com/main/wp-content/gallery/shop/Miami%20night%20skyline.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -58,21 +58,28 @@
 }
 
 #ultra-heading {
-    font-family: 'Audiowide', cursive;
-    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Raleway', sans-serif;
     font-size: 50px;
+    letter-spacing: 20px;
     margin-bottom: 10px;
+    text-align: center;
+    text-shadow: 1px 1px #000000;
 }
 
 #ultra-note {
-    font-family: 'Damion', cursive;
-    margin-top: 5px;
+    color: #FF33CC;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+    letter-spacing: 6px;
+    margin: 5px 0 15px 0;
     text-align: center;
+    text-shadow: 1px 2px #00CCFF;
 }
 
 #ultra-nav {
     margin: 0px auto;
-    margin-top: 40px;
+    margin-top: 30px;
 }
 
 #ultra-video {
